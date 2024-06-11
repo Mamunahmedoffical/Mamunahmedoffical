@@ -15,7 +15,7 @@
 
 <br clear="both">
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -74,8 +74,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Mamunahmedoffical/Mamunahmedoffical/output/snake.svg" alt="Snake animation" />
 

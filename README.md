@@ -3,6 +3,7 @@
 ### Hi there 👋, I'm Mamun Ahmed
 #### Full Stack Web Developer
 
+
 🌟 About Me
 Hey there this is Mamun, as a passionate and experienced full-stack web developer, I bring a comprehensive skill set and a commitment to creating dynamic, user-centric web applications. My expertise spans both front-end and back-end development, allowing me to craft seamless, efficient, and visually appealing digital experiences.
 
@@ -27,7 +28,4 @@ Skills: HTML / CSS / JAVASCRIPT / BOOTSRAP / TAILWIND / REACT JS / PHP / MySQL /
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamunahmedoffical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamunahmedoffical&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mamunahmedoffical)  
-
 
